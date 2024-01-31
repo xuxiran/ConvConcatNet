@@ -1,4 +1,10 @@
 # ConvCatNet
+-----------------------------------------------------------20240131------------------------------------------------------------
+Regarding the comments from the reviewers, we have accepted and completed revisions on the vast majority of the manuscript. However, specific model parameters will be updated in this document after the code is open-sourced. We expect our code to be publicly available before the end of June this year. If the manuscript for "EEG_envelope_reconstruction" is not accepted for publication or does not receive a favorable review, we plan to submit it to arXiv and open-source all of the code.
+
+
+
+
 Attention: all the code would be released after the publication of paper about "EEG_envelope_reconstruction".
 This is because we used similiar model in this two tasks.
 
