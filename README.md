@@ -1,9 +1,11 @@
 # ConvCatNet
 -----------------------------------------------------------20240511------------------------------------------------------------
+
 I apologize that I may need to delay the open-source release of this code, and I hope you can understand the inconvenience caused. This is because our next work has used the relevant code here, but it has not been submitted for publication yet, so our collaborators do not agree to open-source this part of the code in June. After friendly negotiations, this code is expected to be open-sourced in October this year.
 
 
 -----------------------------------------------------------20240131------------------------------------------------------------
+
 Regarding the comments from the reviewers, we have accepted and completed revisions on the vast majority of the manuscript. However, specific model parameters will be updated in this document after the code is open-sourced. We expect our code to be publicly available before the end of June this year. If the manuscript for "EEG_envelope_reconstruction" is not accepted for publication or does not receive a favorable review, we plan to submit it to arXiv and open-source all of the code.
 
 
