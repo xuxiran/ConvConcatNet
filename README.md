@@ -1,12 +1,14 @@
-# ConvCatNet
+
 -----------------------------------------------------------20260425------------------------------------------------------------
 
 https://github.com/bobwangPKU/HDPS
+
+
 The paper is accepted by IEEE TNSRE now. All codes are published.
 
 If you use ConvConcatNet / ConvConCatNet or this codebase in your research, please cite our following papers:
 
-```bibtex
+
 @inproceedings{xu2024convconcatnet,
   title     = {ConvConcatNet: A Deep Convolutional Neural Network to Reconstruct Mel Spectrogram from the EEG},
   author    = {Xiran Xu and Bo Wang and Yujie Yan and Haolin Zhu and Zechen Zhang and Xihong Wu and Jing Chen},
