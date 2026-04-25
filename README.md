@@ -1,4 +1,23 @@
 # ConvCatNet
+-----------------------------------------------------------20260425------------------------------------------------------------
+
+https://github.com/bobwangPKU/HDPS
+The paper is accepted by IEEE TNSRE now. All codes are published.
+
+If you use ConvConcatNet / ConvConCatNet or this codebase in your research, please cite our following papers:
+
+```bibtex
+@inproceedings{xu2024convconcatnet,
+  title     = {ConvConcatNet: A Deep Convolutional Neural Network to Reconstruct Mel Spectrogram from the EEG},
+  author    = {Xiran Xu and Bo Wang and Yujie Yan and Haolin Zhu and Zechen Zhang and Xihong Wu and Jing Chen},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) Workshops},
+  year      = {2024},
+  month     = {April},
+  address   = {Seoul, Republic of Korea},
+  note      = {Auditory EEG Decoding Challenge, GC-L1.6}
+}
+
+
 -----------------------------------------------------------20240511------------------------------------------------------------
 
 I apologize that I may need to delay the open-source release of this code, and I hope you can understand the inconvenience caused. This is because our next work has used the relevant code here, but it has not been submitted for publication yet, so our collaborators do not agree to open-source this part of the code in June. After friendly negotiations, this code is expected to be open-sourced in October this year.
